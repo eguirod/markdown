@@ -19,3 +19,14 @@ Comando1
 
 [palabra/frase que será link](URL dónde lleva el link)
 
+>Cita
+>segunda línea de la cita
+
+* Lista item1
+* Lista item2
+* Lista item3
+
+1. Lista enumerada item1
+2. Lista enumerada item2
+3. Lista enumerada item3
+
