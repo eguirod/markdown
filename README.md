@@ -8,7 +8,7 @@ Anotaciones del taller Gestión de documentación técnica con GitHub y Markdown
 
 **Negritas**
 
-*Cursivas**
+*Cursivas*
 
 Texto normal
 
@@ -20,6 +20,7 @@ Comando1
 [palabra/frase que será link](URL dónde lleva el link)
 
 >Cita
+>
 >segunda línea de la cita
 
 * Lista item1
