@@ -20,7 +20,6 @@ Comando1
 [palabra/frase que será link](URL dónde lleva el link)
 
 >Cita
->
 >segunda línea de la cita
 
 * Lista item1
